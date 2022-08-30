@@ -1,8 +1,8 @@
 {
 "app_id": "wx044e90a57b2a26a7",
 "app_secret": "345b00b461389897d44ed3ed2017c482",
-"template_id": "K0_sVYvaXvgk9zfttTY4WRvhqE85oH4i-jE3iw7ReaI",
-"user": ["ospqs6brL11_q2k_kTAeR9A8uPLg"],
+"template_id": "6RstI-M8ZyIb0ShzT4REmT7qBgLEmlOrx_keC6n2pyo",
+"user": ["ospqs6brL11_q2k_kTAeR9A8uPLg", "wx2"],
 "weather_key": "25939ffc6e1b4b3a84f45c49a9528cf5",
 "tian_api": "03d556e6368aada0cfd41de94e4e26d2",
 "region": "青岛市",
